@@ -1,6 +1,6 @@
 {
 	"quotes": [
-	  {
+		{
 			"read": 691,
 			"category_id": "cat04",
 			"author_id": "x9mali",
@@ -116,59 +116,59 @@
 		}
 	],
 	"authors": [
-        {
-            "name": "Muhammad Ali",
-            "id": "x9mali"
-        },
-        {
-            "name": "Albert Einstein",
-            "id": "h7aenstein"
-        },
-        {
-            "name": "Bill Gates",
-            "id": "y3bgates"
-        },
-        {
-            "name": "Henry Ford",
-            "id": "bz1hford"
-        },
-        {
-            "name": "Elon Musk",
-            "id": "xz3emusk"
-        },
-        {
-            "name": "John F. Kennedy",
-            "id": "ab2xjfkennedy"
-        },
-        {
-            "name": "Abraham Linncoln",
-            "id": "pz73alincoln"
-        },
-        {
-            "name": "Thomas Jefferson",
-            "id": "xz3tjefferson"
-        }
-    ],
+		{
+			"name": "Muhammad Ali",
+			"id": "x9mali"
+		},
+		{
+			"name": "Albert Einstein",
+			"id": "h7aenstein"
+		},
+		{
+			"name": "Bill Gates",
+			"id": "y3bgates"
+		},
+		{
+			"name": "Henry Ford",
+			"id": "bz1hford"
+		},
+		{
+			"name": "Elon Musk",
+			"id": "xz3emusk"
+		},
+		{
+			"name": "John F. Kennedy",
+			"id": "ab2xjfkennedy"
+		},
+		{
+			"name": "Abraham Linncoln",
+			"id": "pz73alincoln"
+		},
+		{
+			"name": "Thomas Jefferson",
+			"id": "xz3tjefferson"
+		}
+	],
 	"categories": [
-        {
-            "id": "cat01",
-            "title": "Politics"
-        },
-        {
-            "id": "cat02",
-            "title": "Business"
-        },
-        {
-            "id": "cat03",
-            "title": "Technology"
-        },
-        {
-            "id": "cat04",
-            "title": "Humanity"
-        },
-        {
-            "id": "cat05",
-            "title": "Science"
-        }
-    ]
+		{
+			"id": "cat01",
+			"title": "Politics"
+		},
+		{
+			"id": "cat02",
+			"title": "Business"
+		},
+		{
+			"id": "cat03",
+			"title": "Technology"
+		},
+		{
+			"id": "cat04",
+			"title": "Humanity"
+		},
+		{
+			"id": "cat05",
+			"title": "Science"
+		}
+	]
 }
