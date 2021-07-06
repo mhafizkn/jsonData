@@ -115,6 +115,28 @@
 			"quote": "An asteroid or a supervolcano could certainly destroy us, but we also face risks the dinosaurs never saw: An engineered virus, nuclear war, inadvertent creation of a micro black hole, or some as-yet-unknown technology could spell the end of us."
 		}
 	],
+	"categories": [
+		{
+			"id": "cat01",
+			"title": "Politics"
+		},
+		{
+			"id": "cat02",
+			"title": "Business"
+		},
+		{
+			"id": "cat03",
+			"title": "Technology"
+		},
+		{
+			"id": "cat04",
+			"title": "Humanity"
+		},
+		{
+			"id": "cat05",
+			"title": "Science"
+		}
+	],
 	"profile": {
     		"name": "mhafizkn"
   	}
