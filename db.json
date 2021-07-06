@@ -1,11 +1,120 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"quotes": [{
+			"read": 691,
+			"category_id": "cat04",
+			"author_id": "x9mali",
+			"quote": "There are no pleasures in a fight but some of my fights have been a pleasure to win"
+		},
+		{
+			"read": 124,
+			"category_id": "cat01",
+			"author_id": "x9mali",
+			"quote": "Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even."
+		},
+		{
+			"read": 635,
+			"category_id": "cat01",
+			"author_id": "x9mali",
+			"quote": "Wars of nations are fought to change maps. But wars of poverty are fought to map change."
+		},
+		{
+			"read": 499,
+			"category_id": "cat04",
+			"author_id": "x9mali",
+			"quote": "I never thought of losing, but now that it is happened, the only thing is to do it right. That is my obligation to all the people who believe in me. We all have to take defeats in life."
+		},
+		{
+			"read": 107,
+			"category_id": "cat04",
+			"author_id": "h7aenstein",
+			"quote": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
+		},
+		{
+			"read": 864,
+			"category_id": "cat01",
+			"author_id": "h7aenstein",
+			"quote": "The world is a dangerous place to live; not because of the people who are evil, but because of the people who do not do anything about it."
+		},
+		{
+			"read": 945,
+			"category_id": "cat05",
+			"author_id": "h7aenstein",
+			"quote": "When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That is relativity."
+		},
+		{
+			"read": 538,
+			"category_id": "cat05",
+			"author_id": "h7aenstein",
+			"quote": "No problem can be solved from the same level of consciousness that created it."
+		},
+		{
+			"read": 149,
+			"category_id": "cat05",
+			"author_id": "h7aenstein",
+			"quote": "Reality is merely an illusion, albeit a very persistent one."
+		},
+		{
+			"read": 912,
+			"category_id": "cat02",
+			"author_id": "y3bgates",
+			"quote": "It is fine to celebrate success but it is more important to heed the lessons of failure."
+		},
+		{
+			"read": 590,
+			"category_id": "cat04",
+			"author_id": "y3bgates",
+			"quote": "If I would had some set idea of a finish line, do not you think I would have crossed it years ago?"
+		},
+		{
+			"read": 574,
+			"category_id": "cat03",
+			"author_id": "y3bgates",
+			"quote": "At Microsoft there are lots of brilliant ideas but the image is that they all come from the top - I am afraid that is not quite right."
+		},
+		{
+			"read": 923,
+			"category_id": "cat03",
+			"author_id": "y3bgates",
+			"quote": "When the PC was launched, people knew it was important."
+		},
+		{
+			"read": 349,
+			"category_id": "cat01",
+			"author_id": "ab2xjfkennedy",
+			"quote": "Let us not seek the Republican answer or the Democratic answer, but the right answer. Let us not seek to fix the blame for the past. Let us accept our own responsibility for the future."
+		},
+		{
+			"read": 795,
+			"category_id": "cat01",
+			"author_id": "Whenever a man has cast a longing eye on offices, a rottenness begins in his conduct.",
+			"quote": "xz3tjefferson"
+		},
+		{
+			"read": 865,
+			"category_id": "cat01",
+			"author_id": "pz73alincoln",
+			"quote": "The ballot is stronger than the bullet. Abraham Lincoln"
+		},
+		{
+			"read": 875,
+			"category_id": "cat02",
+			"author_id": "bz1hford",
+			"quote": "The man who will use his skill and constructive imagination to see how much he can give for a dollar, instead of how little he can give for a dollar, is bound to succeed."
+		},
+		{
+			"read": 340,
+			"category_id": "cat02",
+			"author_id": "xz3emusk",
+			"quote": "When Henry Ford made cheap, reliable cars people said, 'Nah, what's wrong with a horse?' That was a huge bet he made, and it worked."
+		},
+		{
+			"read": 560,
+			"category_id": "cat03",
+			"author_id": "xz3emusk",
+			"quote": "An asteroid or a supervolcano could certainly destroy us, but we also face risks the dinosaurs never saw: An engineered virus, nuclear war, inadvertent creation of a micro black hole, or some as-yet-unknown technology could spell the end of us."
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
